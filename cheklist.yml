@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: checklist
+
+server:
+  port: 17016
+  servlet:
+    context-path: /checklist
